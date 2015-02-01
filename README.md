@@ -2,6 +2,9 @@
 
 An <a href="http://oembed.com">oembed provider</a> handler for <a href="http://hapijs.com">Hapi.js</a>.
 
+[![Build Status](https://travis-ci.org/grayside/hapi-oembed-provider.svg)](https://travis-ci.org/grayside/hapi-oembed-provider)
+[![npm version](https://badge.fury.io/js/hapi-oembed-provider.svg)](https://www.npmjs.com/package/hapi-oembed-provider)
+
 ## Options
 
 All oembed payload responses are valid option keys for the oEmbed handler.
