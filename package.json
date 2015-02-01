@@ -23,11 +23,12 @@
     "hapi": "8.x.x"
   },
   "scripts": {
-    "test": "lab -a code -t 100 -L",
+    "test": "lab -a code -t 90 -L",
     "test-cov-html": "lab -a code -r html -o coverage.html"
   },
   "licenses": "MIT",
   "dependencies": {
+    "boom": "^2.6.1",
     "joi": "^5.1.0"
   }
 }
